@@ -1,10 +1,5 @@
 <?
 	//local
-	define("DB_HOST","localhost");
-	define("DB_NAME","spi");
-	define("DB_USERNAME","root");
-	define("DB_PASSWORD","1q2w3e4r");
-	define("DB_NAME_INTRANET","intranet");
 	
 	
 	//define array of financial for payer
