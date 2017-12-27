@@ -1,5 +1,5 @@
-<?
-	//local
+﻿<?
+	//local TEST
 	define("DB_HOST","localhost");
 	define("DB_NAME","spi");
 	define("DB_USERNAME","root");
