@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?
 	//local TEST
 	define("DB_HOST","localhost");
@@ -5,6 +6,10 @@
 	define("DB_USERNAME","root");
 	define("DB_PASSWORD","1q2w3e4r");
 	define("DB_NAME_INTRANET","intranet");
+=======
+<?
+	//local
+>>>>>>> 19dee8846acc478378485c6cd566287b3dac0eb1
 	
 	
 	//define array of financial for payer
