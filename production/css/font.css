@@ -1,0 +1,154 @@
+/* CSS Document */
+
+@font-face {
+	font-family: 'SarabunNEW';
+	src: url(THSarabun.woff);
+}
+
+body {
+	font-family:SarabunNEW;
+	font-size:20px;
+	color:#333;
+}
+
+
+
+li {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+h1 {
+	font-family:SarabunNEW;
+	font-size:34px;
+}
+
+h2 {
+	font-family:SarabunNEW;
+	font-size:30px;
+}
+
+h3 {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+h4 {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+h5 {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+h6 {
+	font-family:SarabunNEW;
+	font-size:18px;
+}
+
+input[type="text"] {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+input[type="password"]{
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+textarea {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+select {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+.label-important {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+
+.btn {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+.btn-primary {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+.btn-success {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+.btn-mini {
+	font-family:SarabunNEW;
+	font-size:20px;
+	height:22px;
+}
+
+
+
+strong {
+	font-weight:bolder;
+}
+
+
+.input-sm {
+	font-size:18px;
+}
+
+
+.form-control {
+	    font-size: 20px;
+}
+
+
+.profile_info span {
+    font-size: 18px;
+    color: #BAB8B8;
+}
+
+.profile_info h2 {
+    font-size: 18px;
+    
+}
+
+
+@media (max-width: 1200px) {
+	.x_title h2 {
+		width: 62%;
+		font-size: 30px;
+	}
+}
+
+.modal-footer .btn+.btn {
+	/* margin-bottom:0px; */
+    margin-left: 5px;
+}
+
+.fileContainer {
+    overflow: hidden;
+    position: relative;
+}
+
+.fileContainer [type=file] {
+    cursor: inherit;
+    display: block;
+    font-size: 999px;
+    filter: alpha(opacity=0);
+    min-height: 100%;
+    min-width: 100%;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 0;
+}

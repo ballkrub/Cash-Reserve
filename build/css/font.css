@@ -1,0 +1,149 @@
+/* CSS Document */
+
+@font-face {
+	font-family: 'SarabunNEW';
+	src: url(THSarabun.woff);
+}
+
+body {
+	font-family:SarabunNEW;
+	font-size:20px;
+	color:#333;
+}
+
+div {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+p {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+span {
+	font-family:SarabunNEW;
+	font-size:20px;
+	vertical-align:bottom;
+	
+}
+
+div>span {
+	font-family:SarabunNEW;
+	font-size:20px;
+	vertical-align:bottom;
+	line-height:16px;
+}
+
+
+
+label {
+	font-family:SarabunNEW;
+	font-size:22px;
+}
+
+a {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+b {
+	font-family:SarabunNEW;
+	font-size:40px;
+	font-weight:bold;
+}
+
+li {
+	font-family:SarabunNEW;
+	font-size:20px;
+	text-height:20px;
+}
+
+h1 {
+	font-family:SarabunNEW;
+	font-size:34px;
+}
+
+h2 {
+	font-family:SarabunNEW;
+	font-size:30px;
+}
+
+h3 {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+h4 {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+h5 {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+h6 {
+	font-family:SarabunNEW;
+	font-size:18px;
+}
+
+input[type="text"] {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+input[type="password"]{
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+textarea {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+select {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+.label-important {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+
+.btn {
+	font-family:SarabunNEW;
+	font-size:20px;
+}
+
+.btn-primary {
+	font-family:SarabunNEW;
+	font-size:22px;
+}
+
+.btn-success {
+	font-family:SarabunNEW;
+	font-size:22px;
+}
+
+.btn-mini {
+	font-family:SarabunNEW;
+	font-size:20px;
+	height:22px;
+}
+
+
+
+strong {
+	font-weight:bolder;
+}
+
+
+.input-sm {
+	font-size:18px;
+}
+
+
